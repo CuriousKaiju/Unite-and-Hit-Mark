@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 916417a54506c0c4886cc93724d540f0
+timeCreated: 1499685147
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hook_m202a1
+    100002: M202A1_BASE
+    100004: //RootNode
+    100006: rocket1
+    100008: rocket2
+    100010: rocket3
+    100012: rocket4
+    100014: Rocket_Base1
+    100016: Rocket_Base2
+    100018: Rocket_Base3
+    100020: Rocket_Base4
+    100022: Rocket_baseStub
+    100024: Stub1
+    100026: Stub2
+    100028: Stub3
+    100030: Stub4
+    100032: wire_m202a1
+    400000: hook_m202a1
+    400002: M202A1_BASE
+    400004: //RootNode
+    400006: rocket1
+    400008: rocket2
+    400010: rocket3
+    400012: rocket4
+    400014: Rocket_Base1
+    400016: Rocket_Base2
+    400018: Rocket_Base3
+    400020: Rocket_Base4
+    400022: Rocket_baseStub
+    400024: Stub1
+    400026: Stub2
+    400028: Stub3
+    400030: Stub4
+    400032: wire_m202a1
+    2300000: hook_m202a1
+    2300002: M202A1_BASE
+    2300004: rocket1
+    2300006: rocket2
+    2300008: rocket3
+    2300010: rocket4
+    2300012: Rocket_Base1
+    2300014: Rocket_Base2
+    2300016: Rocket_Base3
+    2300018: Rocket_Base4
+    2300020: Rocket_baseStub
+    2300022: Stub1
+    2300024: Stub2
+    2300026: Stub3
+    2300028: Stub4
+    2300030: wire_m202a1
+    3300000: hook_m202a1
+    3300002: M202A1_BASE
+    3300004: rocket1
+    3300006: rocket2
+    3300008: rocket3
+    3300010: rocket4
+    3300012: Rocket_Base1
+    3300014: Rocket_Base2
+    3300016: Rocket_Base3
+    3300018: Rocket_Base4
+    3300020: Rocket_baseStub
+    3300022: Stub1
+    3300024: Stub2
+    3300026: Stub3
+    3300028: Stub4
+    3300030: wire_m202a1
+    4300000: M202A1_BASE
+    4300002: Rocket_baseStub
+    4300004: rocket2
+    4300006: rocket1
+    4300008: rocket4
+    4300010: rocket3
+    4300012: Stub1
+    4300014: Stub2
+    4300016: Stub4
+    4300018: Stub3
+    4300020: wire_m202a1
+    4300022: Rocket_Base1
+    4300024: Rocket_Base2
+    4300026: Rocket_Base4
+    4300028: Rocket_Base3
+    4300030: hook_m202a1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
